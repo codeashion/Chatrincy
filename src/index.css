@@ -1,0 +1,15 @@
+/* google fonts outfit */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* add tailwindcss */
+@import "tailwindcss";
+
+* {
+    /* global font styles */
+    font-family: 'Outfit', sans-serif;
+}
+
+::-webkit-scrollbar {
+    /* hide scrollbar */
+    display: none;
+}
