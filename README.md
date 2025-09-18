@@ -8,4 +8,4 @@ What “Chatrincy” Represents:
 
 Chat – seamless, real-time conversations.
 Tone – creative, youthful, and approachable.
-Brand Vibe – a messaging platform that values style, simplicity, and meaningful interactions.
+Brand Vibe – a messaging platform that values style, simplicity, and meaningful interactions...
